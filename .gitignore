@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# logs
+*.log
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# env / secrets
+.env
+.env.*tsconfig.tsbuildinfo
+
+# build artifacts
+tsconfig.tsbuildinfo
